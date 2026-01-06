@@ -36,11 +36,6 @@ function Footer({ className }: { className?: string }) {
             target='_blank'
             className='flex gap-2 items-center'
           >
-            <img
-              src='/bob.gif'
-              className='w-8 h-8 border rounded-sm'
-              alt='bob'
-            />
             Created By <span className='underline'>Reless</span>
           </a>
         </article>
