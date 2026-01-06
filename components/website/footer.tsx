@@ -32,7 +32,7 @@ function Footer({ className }: { className?: string }) {
         </div>
         <article className='py-2  w-fit space-y-2  '>
           <a
-            href='https://x.com/bachhav36741'
+            href='https://reless.lovable.app'
             target='_blank'
             className='flex gap-2 items-center'
           >
@@ -41,19 +41,7 @@ function Footer({ className }: { className?: string }) {
               className='w-8 h-8 border rounded-sm'
               alt='bob'
             />
-            Created By <span className='underline'>Durgesh</span>
-          </a>
-          <a
-            href='https://x.com/naymur_dev'
-            target='_blank'
-            className='flex gap-2 items-center'
-          >
-            <img
-              src='/bob2.gif'
-              alt='bob2'
-              className='w-8 h-8 border rounded-sm'
-            />
-            Re-imagined By <span className='underline'>Naymur</span>
+            Created By <span className='underline'>Reless</span>
           </a>
         </article>
         {/* <div className='sm:block flex sm:mt-0 mt-4  gap-2 sm:w-auto w-full sm:space-y-2 relative z-[1]'>
