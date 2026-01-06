@@ -39,8 +39,8 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: 'naymur rahman',
-      url: 'https://naymur-rahman.com/',
+      name: 'Reless',
+      url: 'https://reless.lovable.app',
     },
   ],
   creator: 'naymur',
